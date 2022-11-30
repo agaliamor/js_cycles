@@ -15,12 +15,17 @@
 //   }
 // }
 
+var arr = new Array(10);
 
-var arr = [];
-for(i = 1; i <= 10; i++) {
-  const a = [11, 12, 13]; 
-  console.log(a); 
-  document.write(arr);
+for (var i = 1; i <= arr.length; i++) {
+  document.writeln( arr.push[i]); 
 }
+
+var arr = {
+  ''
+}
+
+
+
 
 
