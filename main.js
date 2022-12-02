@@ -15,15 +15,27 @@
 //   }
 // }
 
-var arr = new Array(10);
 
-for (var i = 1; i <= arr.length; i++) {
-  document.writeln( arr.push[i]); 
+// var arr = newArray();
+// for (var i = 0; i <= 10; i++) {
+// arr('x');
+// console.log(arr);
+// }
+
+let arr = [];
+for (let i = 0; i < 10; i++) {
+  arr.push('x');
+  console.log(arr);
 }
 
-var arr = {
-  ''
-}
+
+
+
+
+
+ 
+
+
 
 
 
