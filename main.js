@@ -15,18 +15,30 @@
 //   }
 // }
 
-
-// var arr = newArray();
-// for (var i = 0; i <= 10; i++) {
-// arr('x');
+// проверить 4 задание
+// let arr = ['x'];
+// for (var i = 1; i <= 10; i++) {
+//   arr.push(i); 
+//   document.writeln( arr + '<br>' );
+// }
 // console.log(arr);
+
+// задание 5 
+// let arr = [];
+// for (var i = 1; i <= 10; i++) {
+//   arr.push(i); 
+//   document.writeln( i + '<br>' );
 // }
 
-let arr = [];
-for (let i = 0; i < 10; i++) {
-  arr.push('x');
-  console.log(arr);
-}
+// задание 6
+// let arr = []; 
+// for (var i = 1; i <10; i++) {
+//   arr.push(i);
+//   document.writeln(i + '<br>'); 
+// }
+
+// задание 7
+// console.log([2, 5, 7, 4, 11, 12].includes(5));
 
 
 
