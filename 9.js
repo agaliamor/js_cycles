@@ -1,8 +1,8 @@
 // №9. Дан массив с числами. С помощью цикла найдите сумму квадратов элементов этого массива.
 function sumsq(arr) {
   let sum = 0;
-  let i, iTwo;
-  for (i = 0, iTwo = arr.length; i < iTwo; i++) {
+  let i, iLen;
+  for (i = 0, iLen = arr.length; i < iLen; i++) {
     sum += arr[i] * arr[i];
   }
   return sum;
